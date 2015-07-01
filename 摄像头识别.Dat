@@ -1,0 +1,22 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Free Documents|ReportField=ProjectFullPath~Free Documents|ReportField=Title~Bill of Materials For PCB Document [摄像头识别.PcbDoc]|ReportField=TotalQuantity~35|ReportField=ReportTime~下午 5:02:02|ReportField=ReportDate~15/6/29|ReportField=ReportDateTime~15/6/29 下午 5:02:02|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~摄像头识别.PcbDoc|ReportField=DataSourceFullPath~\\psf\Home\Desktop\基础组摄像头\摄像头识别.PcbDoc
+Comment|||天线||1
+8M||8M|8m||1
+10UF||10uF|1206||3
+22P||22pF|Cap_0603||2
+102||102|0603||1
+Comment||102|0603||6
+Comment||103|0805||2
+Comment||220uF|1812||1
+ASM1117-3.3||AMS1117|AMS1117||1
+ATMEGA128L||ATmega128|TQFP64||1
+摄像头||FPC|FPC||1
+IDC10||IDC10|IDC10||1
+Comment||OLED|OLED||1
+Comment||POWER|POWER||1
+||PTC|H8X3||1
+Comment||PTF/AD|H8X3||1
+Comment||Reload|贴片按键||1
+Comment||UART1|UART||1
+Comment||WIFI|USR-WIFI232-S||1
+Comment||[NoValue], Link, RXD0, RXD1, TXD0, TXD1|D0805||6
+摄像头||摄像头|CCD-PZ||1

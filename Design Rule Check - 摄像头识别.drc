@@ -1,0 +1,83 @@
+Protel Design System Design Rule Check
+PCB File : \\psf\Home\Desktop\基础组摄像头\PCB\摄像头识别.PcbDoc
+Date     : 15/6/30
+Time     : 上午 3:44:26
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5.9mil) (Max=10mil) (Preferred=10mil) (All)
+   Violation between Width Constraint: Track (5835mil,5435.046mil)(5835mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (5900mil,5530.046mil)(5965mil,5530.046mil)  Top Layer
+   Violation between Width Constraint: Track (5965mil,5530.046mil)(5965mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (5965mil,5680.046mil)(6030mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (6030mil,5530.046mil)(6030mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (6030mil,5530.046mil)(6095mil,5530.046mil)  Top Layer
+   Violation between Width Constraint: Track (6095mil,5530.046mil)(6095mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (6095mil,5680.046mil)(6160mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (6160mil,5530.046mil)(6160mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (6160mil,5530.046mil)(6225mil,5530.046mil)  Top Layer
+   Violation between Width Constraint: Track (6225mil,5530.046mil)(6225mil,5675.046mil)  Top Layer
+   Violation between Width Constraint: Track (6225mil,5675.046mil)(6335mil,5675.046mil)  Top Layer
+   Violation between Width Constraint: Track (5900mil,5530.046mil)(5900mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (5835mil,5680.046mil)(5900mil,5680.046mil)  Top Layer
+   Violation between Width Constraint: Track (5835mil,5435.046mil)(6225mil,5435.046mil)  Top Layer
+Rule Violations :15
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+   Violation between Track (5835mil,5435.046mil)(5835mil,5680.046mil)  Top Layer and 
+                     Pad -0(5835mil,5435.046mil)  Multi-Layer
+   Violation between Track (5835mil,5435.046mil)(6225mil,5435.046mil)  Top Layer and 
+                     Pad -0(5835mil,5435.046mil)  Multi-Layer
+   Violation between Track (5835mil,5435.046mil)(5835mil,5680.046mil)  Top Layer and 
+                     Track (5835mil,5435.046mil)(5940.046mil,5330mil)  Top Layer
+   Violation between Track (5835mil,5435.046mil)(6225mil,5435.046mil)  Top Layer and 
+                     Track (5835mil,5435.046mil)(5940.046mil,5330mil)  Top Layer
+Rule Violations :4
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (5835mil,5435.046mil)(5835mil,5680.046mil)  Top Layer and 
+                     Pad -0(5835mil,5435.046mil)  Multi-Layer
+   Violation between Track (5835mil,5435.046mil)(6225mil,5435.046mil)  Top Layer and 
+                     Pad -0(5835mil,5435.046mil)  Multi-Layer
+   Violation between Track (5835mil,5435.046mil)(5835mil,5680.046mil)  Top Layer and 
+                     Track (5835mil,5435.046mil)(5940.046mil,5330mil)  Top Layer
+   Violation between Track (5835mil,5435.046mil)(6225mil,5435.046mil)  Top Layer and 
+                     Track (5835mil,5435.046mil)(5940.046mil,5330mil)  Top Layer
+Rule Violations :4
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=50%) (All)
+   Violation between SMD Neck-Down Constraint Between Pad on TopLayer And Track on TopLayer
+   Violation between SMD Neck-Down Constraint Between Pad on TopLayer And Track on TopLayer
+Rule Violations :2
+
+
+Violations Detected : 25
+Time Elapsed        : 00:00:01
